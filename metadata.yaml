@@ -1,0 +1,37 @@
+_repo: The-Atlas-of-Ancient-and-Classical-Geography_17124
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Samuel
+    birthdate: 1774
+    deathdate: 1839
+    gutenberg_agent_id: '7162'
+    url: http://www.gutenberg.org/2009/agents/7162
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_%281774-1839%29
+  editor:
+    agent_name: Rhys, Ernest
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '6540'
+    url: http://www.gutenberg.org/2009/agents/6540
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Rhys
+description: ''
+gutenberg_bookshelf: Reference
+gutenberg_issued: '2005-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geography, Ancient -- Maps'
+- !lcsh 'Atlases'
+- !lcsh 'Classical geography -- Maps'
+- !lcc 'G'
+title: The Atlas of Ancient and Classical Geography
+url: http://www.gutenberg.org/ebooks/17124
