@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6540
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Rhys
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17124#The-Atlas-of-Ancient-and-Classical-Geography
 gutenberg_bookshelf: Reference
 gutenberg_issued: '2005-11-21'
 gutenberg_type: Text
